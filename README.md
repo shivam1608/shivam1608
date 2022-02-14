@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**shivam1608/shivam1608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam1608&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
