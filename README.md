@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<!--
+
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam1608&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shivam1608&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
