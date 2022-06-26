@@ -9,10 +9,10 @@
 [<img align="left" alt="Node.js" width="30px" src="https://skillicons.dev/icons?i=nodejs" />](https://nodejs.org/en/)
 [<img align="left" alt="Express Js" width="30px" src="https://skillicons.dev/icons?i=express" />](https://expressjs.com/)
 [<img align="left" alt="Arduino" width="30px" src="https://skillicons.dev/icons?i=arduino" />](https://www.arduino.cc/)
+<br />
+<br />
 [<img align="left" alt="MongoDB" width="30px" src="https://skillicons.dev/icons?i=mongodb" />](https://www.mongodb.com/)
 [<img align="left" alt="Tailwindcss" width="30px" src="https://skillicons.dev/icons?i=tailwind" />](https://tailwindcss.com/)
-<br />
-<br />
 [<img align="left" alt="Android Studio" width="30px" src="https://skillicons.dev/icons?i=androidstudio" />](https://developer.android.com/studio)
 [<img align="left" alt="Idea" width="30px" src="https://skillicons.dev/icons?i=idea" />](https://www.jetbrains.com/idea/)
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://skillicons.dev/icons?i=vscode" />](https://code.visualstudio.com/)
