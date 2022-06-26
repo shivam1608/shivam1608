@@ -17,6 +17,8 @@
 [<img align="left" alt="Idea" width="30px" src="https://skillicons.dev/icons?i=idea" />](https://www.jetbrains.com/idea/)
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://skillicons.dev/icons?i=vscode" />](https://code.visualstudio.com/)
 [<img align="left" alt="HTML5" width="30px" src="https://skillicons.dev/icons?i=html" />](https://www.w3.org/html/)
+<br />
+<br />
 [<img align="left" alt="CSS3" width="30px" src="https://skillicons.dev/icons?i=css" />](https://www.w3schools.com/css/)
 <br />
 <br />
