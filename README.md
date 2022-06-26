@@ -7,10 +7,16 @@
 [<img align="left" alt="Cplusplus" src="https://skillicons.dev/icons?i=cpp" />](https://cplusplus.com/)
 [<img align="left" alt="JavaScript" src="https://skillicons.dev/icons?i=js" />](https://www.javascript.com/)
 [<img align="left" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" />](https://nodejs.org/en/)
+<br />
+<br />
+<br />
 [<img align="left" alt="Express Js" src="https://skillicons.dev/icons?i=express" />](https://expressjs.com/)
 [<img align="left" alt="Arduino" src="https://skillicons.dev/icons?i=arduino" />](https://www.arduino.cc/)
 [<img align="left" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" />](https://www.mongodb.com/)
 [<img align="left" alt="Tailwindcss" src="https://skillicons.dev/icons?i=tailwind" />](https://tailwindcss.com/)
+<br />
+<br />
+<br />
 [<img align="left" alt="Android Studio" src="https://skillicons.dev/icons?i=androidstudio" />](https://developer.android.com/studio)
 [<img align="left" alt="Idea" src="https://skillicons.dev/icons?i=idea" />](https://www.jetbrains.com/idea/)
 [<img align="left" alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode" />](https://code.visualstudio.com/)
