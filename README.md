@@ -20,6 +20,7 @@
 <br />
 <br />
 [<img align="left" alt="CSS3" width="30px" src="https://skillicons.dev/icons?i=css" />](https://www.w3schools.com/css/)
+[<img align="left" alt="React" width="30px" src="https://skillicons.dev/icons?i=react" />](https://reactjs.org/)
 <br />
 <br />
 
@@ -37,9 +38,9 @@
   <summary>:zap: GitHub Stats</summary>
 </br>
 <a href="https://github.com/shivam1608">
-<img align="center" alt="Shivzee's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=Shivam1608&&show_icons=true&theme=tokyonight&layout=compact"/>
+<img align="center" alt="Shivzee's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=Shivam1608&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&line_height=20"/>
 </br>
 </br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam1608&show_icons=true&theme=tokyonight&layout=compact" alt="Shivzee" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam1608&show_icons=true&theme=tokyonight&layout=compact&count_private=true&hide_border=true&line_height=20" alt="Shivzee" />
 </a>
 </details>
